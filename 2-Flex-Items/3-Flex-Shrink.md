@@ -11,7 +11,7 @@ flex-shrink: número;
 // Um item com shrink: 3 diminuirá 3 vezes mais que um item com 1.
 ```
 
-<img width="700px" src="https://user-images.githubusercontent.com/57417305/81571302-2091b500-9378-11ea-9531-22e7aa86776f.png" />
+<img width="700px" src="https://user-images.githubusercontent.com/57417305/81573268-9e56c000-937a-11ea-9c88-4ae36b117deb.png" />
 
 ## Veja também em:
 <img width="200px" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
