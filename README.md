@@ -8,9 +8,6 @@
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/57417305/81239698-f2108480-8fdb-11ea-862c-665ef9c82af6.gif" />
-</h1>
 
 ## ROADMAP
 
