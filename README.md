@@ -45,7 +45,7 @@
 5. [order](/2-Flex-Items/5-Order.md)
 6. [align-self](/2-Flex-Items/6-Align-Self.md)
 
-## Autor
+## Autor 
 
 - **Gohara Junior** - Front-end Developer - [LinkedIn](https://www.linkedin.com/in/goharajunior/)
 
